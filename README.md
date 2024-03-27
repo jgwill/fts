@@ -2,6 +2,8 @@
 
 ## --@STCGoal The FTS methodology combines fractal geometry, technical indicators, and AI to identify profitable trading opportunities by analyzing five dimensions: Fractal, Momentum, Acceleration/Deceleration, Zone, and Balance Lines.
 
+
+
 **Goal:** To develop a comprehensive understanding of the FTS methodology and provide guidance on the necessary steps to prepare data for bot and recognition learning using an appropriate model.
 
 **Objectives:**
@@ -30,3 +32,6 @@
 - A trained and optimized model that effectively captures the dynamics of the FTS methodology.
 - A deployed system that leverages the FTS methodology for profitable trading opportunities.
 
+
+
+### SEE: [Wiki](https://github.com/jgwill/fts/wiki)
